@@ -6,6 +6,7 @@ import Classclick from "./components/classclick"
 function App() {
   return (
     <div>
+    <div> Hello Click</div>
       <FunctionClick/> 
       <Classclick/>
     </div>
